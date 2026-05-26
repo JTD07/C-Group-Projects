@@ -1,1 +1,6 @@
+# C++ Group Projects
+
 A collaborative C++ implementation of Tetris featuring real-time rendering, collision detection, piece rotation, and line-clearing logic. Built as a group project demonstrating object-oriented programming principles and game development fundamentals in C++.
+
+**Language:** C++
+**Key Concepts:** OOP, game loop design, collision detection
